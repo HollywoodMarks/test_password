@@ -1,2 +1,2 @@
 # test_password
-password
+password='testingpassword'
